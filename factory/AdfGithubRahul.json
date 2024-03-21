@@ -1,0 +1,9 @@
+{
+	"name": "AdfGithubRahul",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1e11805-4f7b-4470-a063-38d6884f3f41",
+		"tenantId": "6d5296b5-7966-4246-a362-c980b9411fd0"
+	}
+}
